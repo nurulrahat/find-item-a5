@@ -1,4 +1,22 @@
 .body-class{
     /* width: 900px; */
-    background-color: rgb(197, 250, 250));
+    background-color: rgb(194, 250, 250);
+    
 }
+#colDivHtml img{
+    width: 100%;
+}
+/* #container2{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+    
+
+}
+.itemCls{
+    border: 2px solid red;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+} */
