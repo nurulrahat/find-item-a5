@@ -6,17 +6,19 @@
 #colDivHtml img{
     width: 100%;
 }
-/* #container2{
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    grid-gap: 20px;
-    
+
+#eachDetailsId{
+width: 325px;
+height: auto;
+margin:5px auto 30px 500px;
+border-radius: 15px;
 
 }
-.itemCls{
-    border: 2px solid red;
-    border-radius: 10px;
-    width: 300px;
-    text-align: center;
-    padding: 10px;
-} */
+#eachDetailsId img{
+    width:100%
+}
+ #colDivHtml {
+  width: 22%;
+  margin: 5px ;
+  border-radius: 15px;
+}
